@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Garderob</string>
+    <string name="_100">100</string>
+    <string name="button">Мне нехуй терять</string>
+    <string name="_5_5_n">Найки за 5к - +5 \n проебаных куртецов</string>
+    <string name="_5_n">Проморозить 5\n проебаных курток</string>
+    <string name="descr">Вот блядство! Ты гардеробщик на студенсе! Поделать нечего, перетаскивай жетончики на панель гардероба точнее чем ссышь бухим и энергичнее, чем дрочишь своим дружкам, иначе упоротые студенты запинают тебя ботинком в живот. Удачи, йоба</string>
+    <string name="exitText">ТЫ ПРОЕБАЛ СО СЧЕТОМ 500грн</string>
+    <string name="exitButton">ПОЙТИ НАХУЙ</string>
+</resources>
